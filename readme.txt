@@ -1,3 +1,4 @@
 I'm learning git!!
 heihei
-first 
+first
+Creating a new branch is quick.
